@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">I am a CS Senior student at Faculty of Computers & Artificial Intelligence Cairo University</h3>
+<h3 align="center">CS Senior student at Faculty of Computers & Artificial Intelligence Cairo University</h3>
 
 - :iphone: I’m currently learning **Flutter**
 - :computer: Try to improve my **Problem Solving skill**
