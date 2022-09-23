@@ -14,7 +14,7 @@
 <a href="https://twitter.com/gemii291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gemii291" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-gamal291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-gamal291" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gemy816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gemy816" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user8716gp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8716gp" height="30" width="40" /></a>
+<a href=["https://www.leetcode.com/user8716gp"](https://leetcode.com/gemy816/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8716gp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
