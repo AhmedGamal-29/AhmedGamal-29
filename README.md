@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
 <h3 align="center">CS Senior student at Faculty of Computers & Artificial Intelligence Cairo University</h3>
 
-- :iphone: I’m currently learning **Mobile Development**
+- :iphone: I’m currently learning **Machine Learning**
 - :computer: Try to improve my **Problem Solving skill**
-- :bulb: Familiar with **Web Development**
+- :bulb: Familiar with **Web Development** , **Mobile Development**
 
 
 
