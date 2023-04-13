@@ -3,7 +3,8 @@
 
 - :iphone: I’m currently learning **Machine Learning**
 - :computer: Try to improve my **Problem Solving skill**
-- :bulb: Familiar with **Web Development** , **Mobile Development**
+- :bulb: Good at **Mobile Development** using Flutter 
+- :bulb: Familiar with **Web Development**
 
 
 
