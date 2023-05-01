@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
 <h3 align="center">CS Senior student at Faculty of Computers & Artificial Intelligence Cairo University</h3>
 
+- :computer: I'm interested in **Software Engineering & Artificial Intelligence**
 - :iphone: I’m currently learning **Machine Learning**
 - :computer: Try to improve my **Problem Solving skill**
 - :bulb: Good at **Mobile Development** using Flutter 
