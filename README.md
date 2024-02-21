@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">Fresh Graduate Software Engineer with honors</h3>
+<h3 align="center">Fresh Graduate Software Engineer</h3>
 
 - :computer: I'm interested in **Software Engineering & Artificial Intelligence**
 - :iphone: I’m currently learning **Machine Learning**
